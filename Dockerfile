@@ -24,8 +24,8 @@ COPY . .
 # Expose the port that FastAPI will be running on (default 8000)
 EXPOSE 8000
 
-# Prevents Python from buffering stdout/stderr
-ENV PYTHONUNBUFFERED=1
+# Define environment variables (optional but useful for production)
+ENV PYTHONUNBUFFERED=1  # Prevents Python from buffering stdout/stderr
 
 # Run the FastAPI app using Uvicorn (ASGI server)
 CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000"]
