@@ -1,0 +1,128 @@
+Python
+Java
+JavaScript
+React
+Node.js
+SQL
+HTML
+CSS
+Django
+Flask
+FastAPI
+Machine Learning
+Deep Learning
+AWS
+Docker
+Kubernetes
+Git
+Linux
+Go
+Ruby
+Swift
+C
+C++
+PHP
+TypeScript
+R
+MATLAB
+TensorFlow
+PyTorch
+Scikit-Learn
+Pandas
+NumPy
+OpenCV
+Keras
+Jupyter
+SQL Server
+MySQL
+PostgreSQL
+MongoDB
+SQLite
+Elasticsearch
+Redis
+GraphQL
+REST API
+Microservices
+Azure
+Google Cloud
+Terraform
+Ansible
+Jenkins
+CI/CD
+Scrum
+Agile
+Test Automation
+Jest
+Mocha
+JUnit
+Selenium
+Cucumber
+Appium
+Android
+iOS
+Xcode
+Android Studio
+Flutter
+React Native
+Vue.js
+Angular
+Ember.js
+WebSockets
+Apache Kafka
+RabbitMQ
+Apache Spark
+Hadoop
+Big Data
+Data Science
+Data Analytics
+Data Visualization
+Tableau
+Power BI
+Excel
+Qlik
+Business Intelligence
+NoSQL
+Graph Databases
+Machine Vision
+Computer Vision
+NLP
+Natural Language Processing
+Chatbots
+Speech Recognition
+AI
+Artificial Intelligence
+Blockchain
+Ethereum
+Solidity
+Smart Contracts
+DevOps
+Cloud Infrastructure
+Cloud Security
+Security
+Penetration Testing
+Ethical Hacking
+Docker Swarm
+Vagrant
+VMware
+Virtualization
+Network Security
+Firewall
+VPN
+SSL/TLS
+Cryptography
+AWS Lambda
+CloudFormation
+Lambda
+Serverless
+Puppet
+Chef
+Splunk
+Nagios
+Zabbix
+Grafana
+Prometheus
+Elastic Stack
+Datadog
+Kibana
+MongoDB Atlas
+BigQuery
