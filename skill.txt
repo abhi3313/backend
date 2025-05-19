@@ -23,7 +23,6 @@ C
 C++
 PHP
 TypeScript
-R
 MATLAB
 TensorFlow
 PyTorch
