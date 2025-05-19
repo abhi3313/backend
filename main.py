@@ -30,7 +30,6 @@ async def upload_resume(file: UploadFile = File(...)):
     text = extract_text(tmp_path)
 
     pattern = r'\b(' + '|'.join(re.escape(skill) for skill in SKILL_KEYWORDS) + r')\b'
-
     found_skills = set(re.findall(pattern, text, re.IGNORECASE))
 
     return {"skills": list(found_skills)}
